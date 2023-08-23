@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lancaster",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-22T18:06:43.364Z",
+      "notes": "walking trip",
+      "position": {
+        "lat": "54.048613300536296",
+        "lng": "-2.799453735351563"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Benicassim",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-22T18:08:03.913Z",
+      "notes": "",
+      "position": {
+        "lat": "40.04942999323671",
+        "lng": "0.014591217041015627"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Eskdale",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-23T10:50:01.725Z",
+      "notes": "",
+      "position": {
+        "lat": "54.42052804806505",
+        "lng": "-3.2244873046875004"
+      },
+      "id": 5
+    }
+  ]
+}
