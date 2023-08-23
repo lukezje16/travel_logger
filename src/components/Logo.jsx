@@ -3,12 +3,15 @@ import { Link } from "react-router-dom";
 
 function Logo() {
   return (
-    <Link to="/">
-      <img
-        src="../../public/images/logo.png"
-        alt="WorldWise logo"
-        className={styles.logo}
-      />
+    <Link to="/" className={styles.logoContainer}>
+      <div className={styles.logoTextContainer}>
+        <img
+          src="../../public/images/icon.png"
+          alt="WorldWise logo"
+          className={styles.logo}
+        />
+        <span className={styles.text}>Travel Logger</span>
+      </div>
     </Link>
   );
 }
